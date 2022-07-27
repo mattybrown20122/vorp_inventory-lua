@@ -1,7 +1,7 @@
 InventoryAPI = {}
 UsableItemsFunctions = {}
 local allplayersammo = {}
-CustomInventoryInfos = {
+CustomInventoryInfos = {}
 	default = {
 		name = "Satchel",
 		limit = Config.MaxItemsInInventory.Items,
